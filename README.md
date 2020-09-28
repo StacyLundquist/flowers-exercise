@@ -1,1 +1,1 @@
-# flowrs-exercise
+# flowers-exercise
